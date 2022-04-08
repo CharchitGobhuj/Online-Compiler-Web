@@ -44,7 +44,7 @@ export default class Compiler extends Component {
         method: "POST",
         headers: {
           "x-rapidapi-host": "judge0-ce.p.rapidapi.com",
-          "x-rapidapi-key": "", // Get yours for free at https://rapidapi.com/judge0-official/api/judge0-ce/
+          "x-rapidapi-key": "5a492658f9mshbfd27798e76b06dp100309jsn0e111a90e40d", // Get yours for free at https://rapidapi.com/judge0-official/api/judge0-ce/
           "content-type": "application/json",
           accept: "application/json",
         },
